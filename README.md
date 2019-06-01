@@ -26,12 +26,12 @@ Click on the Clone and copy the url that appears in the little box (be sure is t
 
 In your terminal type
 
-$ git clone git@github.com:cosmostatschool/MACSS2017.git
+$ git clone git@github.com:cosmostatschool/MACSS2019.git
 
-this will create a folder named MACSS2017 on your computer.
+this will create a folder named MACSS2019 on your computer.
 
-To have the latest version of the MACSS2017 repo, open the terminal and type
+To have the latest version of the MACSS2019 repo, open the terminal and type
 
-$ cd ~/MACSS2017 $ git pull origin master
+$ cd ~/MACSS2019 $ git pull origin master
 
 We recommend that you make a pull of the repository every day to have all the necessary material.
